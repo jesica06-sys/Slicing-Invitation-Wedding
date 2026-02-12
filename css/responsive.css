@@ -1,0 +1,2500 @@
+@media (max-width: 375.98px) {
+    #header{
+        padding: 40px 0;
+        align-items: center;
+    }
+    #header .overlay-card{
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    #header .subtitle{
+        font-size: 14px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+    #header .photo-wrapper{
+        width: 160px;
+        height: 180px;
+        border-radius: 18px;
+        margin-bottom: 20px;
+    }
+    #header .title-header{
+        font-size: 34px;
+        margin: 10px 0 18px;
+        letter-spacing: 2px;
+    }
+    .btn-open-invitation{
+        width: 100%;
+        max-width: 200px;
+        height: 44px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+
+    #page-one{
+        min-height: 100vh;
+        background-position: center 85%;
+        padding-bottom: 20px;
+        align-items: flex-start;
+        padding-top: 80px;
+    }
+
+    #page-two{
+        background-position: center 85%;
+        align-items: flex-start;
+        padding-top: 60px;
+    }
+    #page-two .overlay-card{
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .couple-name{
+        margin-top: 36px;
+        margin-bottom: 24px;
+        line-height: 1;
+    }
+    .couple-name .name,
+    .couple-name .and{
+        font-size: 44px;
+    }
+    .date{
+        font-size: 14px;
+        margin-top: 16px;
+        margin-bottom: 24px;
+        letter-spacing: 2px;
+    }
+    #page-two .subtitle-two{
+        font-size: 16px;
+        margin-bottom: 60px;
+    }
+
+    #page-three{
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #page-three .overlay-card{
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        margin: 0 auto;
+        justify-content: center;
+        text-align: center;
+    }
+    #page-three .subtitle-three{
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: -7px;
+    }
+    #page-three .title-three{
+        font-size: 12px;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+
+    #page-four{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    #page-four h1{
+        font-size: 38px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    #names{
+        padding: 20px 0;
+    }
+    #names .row{
+        flex-direction: column;
+        gap: 20px;
+        max-width: 100%;
+    }
+    #names img{
+        width: 160px;
+        margin-bottom: 14px;
+    }
+    .names-title{
+        font-size: 26px;
+    }
+    .text-bride-names{
+        font-size: 14px;
+    }
+    .doughter_of,
+    .doughter_name,
+    .doughter_and{
+        font-size: 14px;
+    }
+    .container_names_and{
+        margin: 10px 0;
+        height: auto;
+    }
+    .names_and{
+        font-size: 36px;
+        transform: none;
+    }
+    .flower{
+        width: 120px;
+        height: 280px;
+        top: 40%;
+        transform: translateY(0);
+    }
+    .flower-left{
+        left: 20px;
+        transform: scaleX(-1);
+    }
+    .flower-right{
+        right: 20px;
+    }
+
+    #page-five{
+        background-position: center 85%;
+        padding-top: 60px;
+    }
+    #page-five .container{
+        padding: 0 16px;
+        max-width: 100%;
+    }
+    .save-date,
+    .save-wedding{
+        font-size: 36px;
+        margin-top: 20px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    #page-five .row{
+        margin: 20px 0;
+        gap: 10px;
+    }
+    .conter-day{
+        font-size: 32px;
+        padding: 0 14px;
+    }
+    .conter-day p{
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    #page-five p{
+        font-size: 13px;
+        line-height: 1.8;
+        margin-bottom: 24px;
+    }
+    .text{
+        font-size: 14px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .btn-save-date{
+        width: 100%;
+        max-width: 200px;
+        height: 44px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+    .btn-save-date img{
+        width: 16px;
+        height: 16px;
+    }
+    .button-decor-five{
+        bottom: -10px;
+    }
+
+    #page-six{
+        padding-bottom: 120px;
+    }
+    .cards-wrapper{
+        position: relative;      
+        bottom: auto;
+        left: auto;
+        transform: none;
+        flex-direction: column;  
+        gap: 24px;
+        align-items: center;
+        margin-top: 40px;
+    }
+    .event-card{
+        width: 100%;
+        max-width: 320px;
+        height: auto;            
+        padding: 28px 16px;
+        border-radius: 80px;
+    }
+    .card-date-box{
+        width: 260px;
+        height: 210px;
+        margin-top: -40px;
+    }
+
+    #page-seven{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    .flower{
+        position: absolute;
+        top: 50%;
+        width: 60px;
+        height: auto;
+        opacity: 1;
+    }
+    .flower-left{
+        left: -20px;
+        transform: translateY(-110%) scale(0.6) scaleX(-1) rotate(-30deg);
+    }
+    .flower-right{
+        right: -20px;
+        transform: translateY(-110%) scale(0.6) rotate(-30deg);
+    }
+    .overlay-card-seven{
+        width: 100%;
+        max-width: 320px;
+        height: auto;
+        padding: 24px 16px;
+        border-radius: 120px;
+    }
+    .rsvp{
+        font-size: 40px;
+    }
+    .attending{
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 16px;
+    }
+    .input-rsvp{
+        width: 100%;
+        max-width: 280px;
+        height: 46px;
+        font-size: 14px;
+        padding: 8px 16px;
+    }
+    .text-rsvp{
+        font-size: 11px;
+    }
+    .btn-confir{
+        width: 100%;
+        max-width: 280px;
+        height: 46px;
+        font-size: 14px;
+    }
+    .confir-wrapper{
+        width: 100%;
+        max-width: 280px;
+        margin: 5px auto;
+    }
+    .confir-options{
+        width: 100%;
+    }
+    .confir-options button{
+        height: 46px;
+        font-size: 14px;
+    }
+    .btn-send{
+        width: 110px;
+        height: 46px;
+        font-size: 14px;
+        margin: 50px auto;
+    }
+
+    #page-seven{
+        padding-top: 100px;
+    }
+    .overlay-card-seven{
+        width: 360px;
+        height: auto;
+        padding: 32px 20px;
+    }
+    .input-rsvp,
+    .btn-confir,
+    .confir-wrapper{
+        width: 100%;
+        max-width: 320px;
+    }
+    .flower{
+        width: 150px;
+        height: 360px;
+        opacity: 0.8;
+    }
+    .flower-left{
+        left: -20px;
+    }
+    .flower-right{
+        right: -20px;
+    }
+
+    #page-eight{
+        padding-top: 100px;
+        padding-bottom: 180px;
+    }
+    #page-eight h1{
+        font-size: 52px;
+    }
+    .wishes-form{
+        max-width: 480px;
+    }
+    .input-name,
+    .input-wish{
+        font-size: 15px;
+    }
+    .btn-send-wishes{
+        width: 110px;
+        height: 46px;
+        right: 10px;
+        bottom: -50px;
+    }
+    .wishes-wrapper{
+        margin-top: 60px;
+        padding: 0 20px;
+    }
+    .slick-prev,
+    .slick-next{
+        width: 34px;
+        height: 34px;
+    }
+    .slick-prev{
+        left: -10px;
+        z-index: 9999;
+    }
+    .slick-next{
+        right: -10px;
+        z-index: 9999;
+    }
+    .wishes-wrapper .slick-slide{
+        margin: 0 5px;
+    }
+    .slick-prev::before,
+    .slick-next::before{
+        font-size: 16px;
+    }
+    .wish-card{
+        width: 280px;
+        padding: 10px;
+    }
+    .wish-card h4{
+        font-size: 22px;
+        padding-bottom: 25px;
+    }
+    .wish-card p{
+        font-size: 15px;
+    }
+
+    #page-nine{
+        padding: 80px 16px 120px;
+        align-items: flex-start;
+    }
+    .overlay-card-nine{
+        width: 100%;
+        max-width: 300px;
+        min-height: 520px;
+        padding: 32px 18px;
+        border-radius: 180px;
+        display: flex;
+        justify-content: center;
+    }
+    .wedding-gift{
+        font-size: 44px;
+        margin-bottom: 6px;
+    }
+    .text-gift{
+        font-size: 12px;
+        line-height: 1.7;
+        margin-bottom: 0;
+    }
+    .logo-mandiri,
+    .logo-bca{
+        width: 100px;
+        margin: 2px auto;
+    }
+    .nama-norek{
+        font-size: 14px;
+    }
+    .norek{
+        font-size: 12px;
+    }
+    .btn-copy{
+        width: 100%;
+        max-width: 160px;
+        height: 35px;
+        font-size: 14px;
+        margin: 14px auto;
+    }
+
+    #page-ten{
+        padding-top: 80px;
+        padding-bottom: 40px;
+        align-items: center;
+    }
+    .galery{
+        font-size: 42px;
+        text-align: center;
+    }
+    .row-galery{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 16px;
+        gap: 10px;
+        margin: 30px auto;
+    }
+    .row-galery .col-3{
+        grid-column: span 2;
+    }
+    .row-galery .col-2{
+        grid-column: span 1;
+    }
+    .row-galery img{
+        height: 180px;
+    }
+    #page-ten .flower{
+        width: 150px;
+        height: 360px;
+        top: 50%;
+        opacity: 1;
+    }
+    #page-ten .flower-left{
+        left: -20px;
+        transform: translateY(-130%) scale(0.6) scaleX(-1) rotate(-30deg);
+    }
+    #page-ten .flower-right{
+        right: -20px;
+        transform: translateY(-130%) scale(0.6) rotate(-30deg);
+    }
+
+    #page-eleven{
+        align-items: flex-start; 
+        padding-top: 90px;
+        padding-bottom: 60px;
+    }
+    .thanks{
+        font-size: 44px;
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+    .text-thanks{
+        font-size: 12px;
+        max-width: 90%;
+        margin-bottom: 50px;
+    }
+    .from{
+        font-size: 24px;
+    }
+
+    .button-nav{
+        min-height: 64px;
+        padding: 10px 16px;
+        gap: 18px;
+    }
+    .nav-item{
+        font-size: 9px;
+        gap: 4px;
+    }
+    .nav-item img{
+        width: 22px;
+        height: 22px;
+        margin-bottom: 2px;
+    }
+    .nav-item.active{
+        width: 52px;
+        height: 52px;
+        padding: 6px;
+        border-radius: 12px;
+    }
+
+    .music-btn{
+        bottom: 80px;
+        right: 20px;
+        width: 42px;
+        height: 42px;;
+    }
+    .music-ring{
+        width: 42px;
+        height: 42px;
+    }
+    .music-icon{
+        width: 30px;
+        height: 30px;
+    }
+    .music-icon.pause::before,
+    .music-icon.pause::after{
+        width: 4px;
+        height: 14px;
+    }
+    .music-icon.pause::before{
+        left: 50%;
+        transform: translate(-6px, -50%);
+    }
+    .music-icon.pause::after{
+        left: 50%;
+        transform: translate(2px, -50%);
+    }
+    .music-icon.play::before{
+        left: 50%;
+        top: 50%;
+        transform: translate(-38%, -50%);
+        border-top: 7px solid transparent;
+        border-bottom: 7px solid transparent;
+        border-left: 10px solid #ffffff;
+    }
+}
+
+@media (min-width: 376px) and (max-width: 575.98px) {
+    #header{
+        padding: 40px 0;
+        align-items: center;
+    }
+    #header .overlay-card{
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    #header .subtitle{
+        font-size: 14px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+    #header .photo-wrapper{
+        width: 160px;
+        height: 180px;
+        border-radius: 18px;
+        margin-bottom: 20px;
+    }
+    #header .title-header{
+        font-size: 34px;
+        margin: 10px 0 18px;
+        letter-spacing: 2px;
+    }
+    .btn-open-invitation{
+        width: 100%;
+        max-width: 200px;
+        height: 44px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+
+    #page-one{
+        min-height: 100vh;
+        background-position: center 85%;
+        padding-bottom: 20px;
+        align-items: flex-start;
+        padding-top: 80px;
+    }
+
+    #page-two{
+        background-position: center 85%;
+        align-items: flex-start;
+        padding-top: 60px;
+    }
+    #page-two .overlay-card{
+        margin-top: 200px;
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .couple-name{
+        margin-top: 36px;
+        margin-bottom: 24px;
+        line-height: 1;
+    }
+    .couple-name .name,
+    .couple-name .and{
+        font-size: 44px;
+    }
+    .date{
+        font-size: 14px;
+        margin-top: 16px;
+        margin-bottom: 24px;
+        letter-spacing: 2px;
+    }
+    #page-two .subtitle-two{
+        font-size: 16px;
+        margin-bottom: 60px;
+    }
+
+    #page-three{
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #page-three .overlay-card{
+        margin-top: 110px;
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        justify-content: center;
+        text-align: center;
+    }
+    #page-three .subtitle-three{
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: -7px;
+    }
+    #page-three .title-three{
+        font-size: 12px;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+
+    #page-four{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    #page-four h1{
+        font-size: 38px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    #names{
+        padding: 20px 0;
+    }
+    #names .row{
+        flex-direction: column;
+        gap: 20px;
+        max-width: 100%;
+    }
+    #names img{
+        width: 160px;
+        margin-bottom: 14px;
+    }
+    .names-title{
+        font-size: 26px;
+    }
+    .text-bride-names{
+        font-size: 14px;
+    }
+    .doughter_of,
+    .doughter_name,
+    .doughter_and{
+        font-size: 14px;
+    }
+    .container_names_and{
+        margin: 10px 0;
+        height: auto;
+    }
+    .names_and{
+        font-size: 36px;
+        transform: none;
+    }
+    .flower{
+        position: absolute;
+        width: 120px;
+        height: 280px;
+        top: 40%;
+    }
+    .flower-left{
+        left: 20px;
+        transform: translateY(-110%) scaleX(-1) rotate(-20deg) scale(0.7);
+
+    }
+    .flower-right{
+        right: 20px;
+        transform: translateY(-110%) rotate(-20deg) scale(0.7);
+    }
+
+    #page-five{
+        background-position: center 85%;
+        padding-top: 60px;
+    }
+    #page-five .container{
+        padding: 0 16px;
+        max-width: 100%;
+    }
+    .save-date,
+    .save-wedding{
+        font-size: 36px;
+        margin-top: 20px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    #page-five .row{
+        margin: 20px 0;
+        gap: 10px;
+    }
+    .conter-day{
+        font-size: 32px;
+        padding: 0 14px;
+    }
+    .conter-day p{
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    #page-five p{
+        font-size: 13px;
+        line-height: 1.8;
+        margin-bottom: 24px;
+    }
+    .text{
+        font-size: 14px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .btn-save-date{
+        width: 100%;
+        max-width: 200px;
+        height: 44px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+    .btn-save-date img{
+        width: 16px;
+        height: 16px;
+    }
+    .button-decor-five{
+        bottom: -10px;
+    }
+
+     #page-six{
+        padding-bottom: 120px;
+    }
+    .cards-wrapper{
+        position: relative;      
+        bottom: auto;
+        left: auto;
+        transform: none;
+        flex-direction: column;  
+        gap: 24px;
+        align-items: center;
+        margin-top: 40px;
+    }
+    .event-card{
+        width: 100%;
+        max-width: 320px;
+        height: auto;            
+        padding: 28px 16px;
+        border-radius: 80px;
+    }
+    .card-date-box{
+        width: 260px;
+        height: 210px;
+        margin-top: -40px;
+    }
+
+    #page-seven{
+        padding-top: 100px;
+    }
+    .overlay-card-seven{
+        width: 360px;
+        height: auto;
+        padding: 32px 20px;
+    }
+    .input-rsvp,
+    .btn-confir,
+    .confir-wrapper{
+        width: 100%;
+        max-width: 320px;
+    }
+    .flower-seven{
+        position: absolute;
+        width: 120px;
+        height: 280px;
+        top: 40%;
+    }
+    .flower-left-seven{
+        left: 20px;
+    }
+    .flower-right-seven{
+        right: 20px;
+    }
+
+    #page-eight{
+        padding-top: 100px;
+        padding-bottom: 180px;
+    }
+    #page-eight h1{
+        font-size: 52px;
+    }
+    .wishes-form{
+        max-width: 480px;
+    }
+    .input-name,
+    .input-wish{
+        font-size: 15px;
+    }
+    .btn-send-wishes{
+        width: 110px;
+        height: 46px;
+        right: 10px;
+        bottom: -50px;
+    }
+    .wishes-wrapper{
+        margin-top: 60px;
+        padding: 0 20px;
+    }
+    .slick-prev,
+    .slick-next{
+        width: 34px;
+        height: 34px;
+    }
+    .slick-prev{
+        left: -10px;
+        z-index: 9999;
+    }
+    .slick-next{
+        right: -10px;
+        z-index: 9999;
+    }
+    .wishes-wrapper .slick-slide{
+        margin: 0 5px;
+    }
+    .slick-prev::before,
+    .slick-next::before{
+        font-size: 16px;
+    }
+    .wish-card{
+        width: 280px;
+        padding: 10px;
+    }
+    .wish-card h4{
+        font-size: 22px;
+        padding-bottom: 25px;
+    }
+    .wish-card p{
+        font-size: 15px;
+    }
+
+    #page-nine{
+        padding: 80px 16px 120px;
+        align-items: flex-start;
+    }
+    .overlay-card-nine{
+        width: 100%;
+        max-width: 300px;
+        min-height: 520px;
+        padding: 32px 18px;
+        border-radius: 180px;
+        display: flex;
+        justify-content: center;
+    }
+    .wedding-gift{
+        font-size: 44px;
+        margin-bottom: 6px;
+    }
+    .text-gift{
+        font-size: 12px;
+        line-height: 1.7;
+        margin-bottom: 0;
+    }
+    .logo-mandiri,
+    .logo-bca{
+        width: 100px;
+        margin: 2px auto;
+    }
+    .nama-norek{
+        font-size: 14px;
+    }
+    .norek{
+        font-size: 12px;
+    }
+    .btn-copy{
+        width: 100%;
+        max-width: 160px;
+        height: 35px;
+        font-size: 14px;
+        margin: 14px auto;
+    }
+
+    #page-ten{
+        padding-top: 80px;
+        padding-bottom: 40px;
+        align-items: center;
+    }
+    .galery{
+        font-size: 42px;
+        text-align: center;
+    }
+    .row-galery{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 16px;
+        gap: 10px;
+        margin: 30px auto;
+    }
+    .row-galery .col-3{
+        grid-column: span 2;
+    }
+    .row-galery .col-2{
+        grid-column: span 1;
+    }
+    .row-galery img{
+        height: 180px;
+    }
+    .flower{
+        position: absolute;
+        width: 120px;
+        height: 280px;
+        top: 40%;
+        opacity: 1;
+    }
+    #page-ten .flower-left{
+        left: 20px;
+        transform: translateY(-130%) scaleX(-1) rotate(-20deg) scale(0.7);
+    }
+    #page-ten .flower-right{
+        right: 20px;
+        transform: translateY(-130%) rotate(-20deg) scale(0.7);
+    }
+
+    #page-eleven{
+        align-items: flex-start; 
+        padding-top: 90px;
+        padding-bottom: 60px;
+    }
+    .thanks{
+        font-size: 44px;
+        margin-top: 110px;
+        margin-bottom: 25px;
+    }
+    .text-thanks{
+        font-size: 12px;
+        max-width: 90%;
+        margin-bottom: 80px;
+    }
+    .from{
+        font-size: 24px;
+    }
+
+     .button-nav{
+        min-height: 64px;
+        padding: 10px 16px;
+        gap: 18px;
+    }
+    .nav-item{
+        font-size: 9px;
+        gap: 4px;
+    }
+    .nav-item img{
+        width: 22px;
+        height: 22px;
+        margin-bottom: 2px;
+    }
+    .nav-item.active{
+        width: 52px;
+        height: 52px;
+        padding: 6px;
+        border-radius: 12px;
+    }
+
+    .music-btn{
+        bottom: 80px;
+        right: 20px;
+        width: 42px;
+        height: 42px;;
+    }
+    .music-ring{
+        width: 42px;
+        height: 42px;
+    }
+    .music-icon{
+        width: 30px;
+        height: 30px;
+    }
+    .music-icon.pause::before,
+    .music-icon.pause::after{
+        width: 4px;
+        height: 14px;
+    }
+    .music-icon.pause::before{
+        left: 50%;
+        transform: translate(-6px, -50%);
+    }
+    .music-icon.pause::after{
+        left: 50%;
+        transform: translate(2px, -50%);
+    }
+    .music-icon.play::before{
+        left: 50%;
+        top: 50%;
+        transform: translate(-38%, -50%);
+        border-top: 7px solid transparent;
+        border-bottom: 7px solid transparent;
+        border-left: 10px solid #ffffff;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #header{
+        padding: 40px 0;
+        align-items: center;
+    }
+    #header .overlay-card{
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    #header .subtitle{
+        font-size: 14px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+    #header .photo-wrapper{
+        width: 160px;
+        height: 180px;
+        border-radius: 18px;
+        margin-bottom: 20px;
+    }
+    #header .title-header{
+        font-size: 34px;
+        margin: 10px 0 18px;
+        letter-spacing: 2px;
+    }
+    .btn-open-invitation{
+        width: 100%;
+        max-width: 200px;
+        height: 44px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+
+    #page-one{
+        min-height: 100vh;
+        background-position: center 85%;
+        padding-bottom: 20px;
+        align-items: flex-start;
+        padding-top: 80px;
+    }
+
+    #page-two{
+        background-position: center 85%;
+        align-items: flex-start;
+        padding-top: 60px;
+    }
+    #page-two .overlay-card{
+        margin-top: 200px;
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .couple-name{
+        margin-top: 36px;
+        margin-bottom: 24px;
+        line-height: 1;
+    }
+    .couple-name .name,
+    .couple-name .and{
+        font-size: 44px;
+    }
+    .date{
+        font-size: 14px;
+        margin-top: 16px;
+        margin-bottom: 24px;
+        letter-spacing: 2px;
+    }
+    #page-two .subtitle-two{
+        font-size: 16px;
+        margin-bottom: 60px;
+    }
+
+    #page-three{
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #page-three .overlay-card{
+        margin-top: 110px;
+        max-width: 300px;
+        height: 460px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        justify-content: center;
+        text-align: center;
+    }
+    #page-three .subtitle-three{
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: -7px;
+    }
+    #page-three .title-three{
+        font-size: 12px;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+
+    #page-four{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    #page-four h1{
+        font-size: 38px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    #names{
+        padding: 20px 0;
+    }
+    #names .row{
+        flex-direction: column;
+        gap: 20px;
+        max-width: 100%;
+    }
+    #names img{
+        width: 160px;
+        margin-bottom: 14px;
+    }
+    .names-title{
+        font-size: 26px;
+    }
+    .text-bride-names{
+        font-size: 14px;
+    }
+    .doughter_of,
+    .doughter_name,
+    .doughter_and{
+        font-size: 14px;
+    }
+    .container_names_and{
+        margin: 10px 0;
+        height: auto;
+    }
+    .names_and{
+        font-size: 36px;
+        transform: none;
+    }
+    .flower{
+        position: absolute;
+        width: 120px;
+        height: 280px;
+        top: 40%;
+    }
+    .flower-left{
+        left: 20px;
+        transform: translateY(-110%) scaleX(-1) rotate(-20deg) scale(0.7);
+
+    }
+    .flower-right{
+        right: 20px;
+        transform: translateY(-110%) rotate(-20deg) scale(0.7);
+    }
+
+    #page-five{
+        background-position: center 85%;
+        padding-top: 60px;
+    }
+    #page-five .container{
+        padding: 0 16px;
+        max-width: 100%;
+    }
+    .save-date,
+    .save-wedding{
+        font-size: 36px;
+        margin-top: 20px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    #page-five .row{
+        margin: 20px 0;
+        gap: 10px;
+    }
+    .conter-day{
+        font-size: 32px;
+        padding: 0 14px;
+    }
+    .conter-day p{
+        font-size: 10px;
+        margin-top: -4px;
+    }
+    #page-five p{
+        font-size: 13px;
+        line-height: 1.8;
+        margin-bottom: 24px;
+    }
+    .text{
+        font-size: 14px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .btn-save-date{
+        width: 100%;
+        max-width: 200px;
+        height: 44px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+    .btn-save-date img{
+        width: 16px;
+        height: 16px;
+    }
+    .button-decor-five{
+        bottom: -10px;
+    }
+
+     #page-six{
+        padding-bottom: 120px;
+    }
+    .cards-wrapper{
+        position: relative;      
+        bottom: auto;
+        left: auto;
+        transform: none;
+        flex-direction: column;  
+        gap: 24px;
+        align-items: center;
+        margin-top: 40px;
+    }
+    .event-card{
+        width: 100%;
+        max-width: 320px;
+        height: auto;            
+        padding: 28px 16px;
+        border-radius: 80px;
+    }
+    .card-date-box{
+        width: 260px;
+        height: 210px;
+        margin-top: -40px;
+    }
+
+    #page-seven{
+        padding-top: 100px;
+    }
+    .overlay-card-seven{
+        width: 360px;
+        height: auto;
+        padding: 32px 20px;
+    }
+    .input-rsvp,
+    .btn-confir,
+    .confir-wrapper{
+        width: 100%;
+        max-width: 320px;
+    }
+    .flower{
+        position: absolute;
+        width: 120px;
+        height: 280px;
+        top: 40%;
+    }
+    .flower-left{
+        left: 20px;
+        transform: translateY(-110%) scaleX(-1) rotate(-20deg) scale(0.8);
+
+    }
+    .flower-right{
+        right: 20px;
+        transform: translateY(-110%) rotate(-20deg) scale(0.8);
+    }
+
+    #page-eight{
+        padding-top: 100px;
+        padding-bottom: 180px;
+    }
+    #page-eight h1{
+        font-size: 52px;
+    }
+    .wishes-form{
+        max-width: 480px;
+    }
+    .input-name,
+    .input-wish{
+        font-size: 15px;
+    }
+    .btn-send-wishes{
+        width: 110px;
+        height: 46px;
+        right: 10px;
+        bottom: -50px;
+    }
+    .wishes-wrapper{
+        margin-top: 60px;
+        padding: 0 20px;
+    }
+    .slick-prev,
+    .slick-next{
+        width: 34px;
+        height: 34px;
+    }
+    .slick-prev{
+        left: -10px;
+        z-index: 9999;
+    }
+    .slick-next{
+        right: -10px;
+        z-index: 9999;
+    }
+    .wishes-wrapper .slick-slide{
+        margin: 0 5px;
+    }
+    .slick-prev::before,
+    .slick-next::before{
+        font-size: 16px;
+    }
+    .wish-card{
+        width: 280px;
+        padding: 10px;
+    }
+    .wish-card h4{
+        font-size: 22px;
+        padding-bottom: 25px;
+    }
+    .wish-card p{
+        font-size: 15px;
+    }
+
+    #page-nine{
+        padding: 80px 16px 120px;
+        align-items: flex-start;
+    }
+    .overlay-card-nine{
+        width: 100%;
+        max-width: 300px;
+        min-height: 520px;
+        padding: 32px 18px;
+        border-radius: 180px;
+        display: flex;
+        justify-content: center;
+    }
+    .wedding-gift{
+        font-size: 44px;
+        margin-bottom: 6px;
+    }
+    .text-gift{
+        font-size: 12px;
+        line-height: 1.7;
+        margin-bottom: 0;
+    }
+    .logo-mandiri,
+    .logo-bca{
+        width: 100px;
+        margin: 2px auto;
+    }
+    .nama-norek{
+        font-size: 14px;
+    }
+    .norek{
+        font-size: 12px;
+    }
+    .btn-copy{
+        width: 100%;
+        max-width: 160px;
+        height: 35px;
+        font-size: 14px;
+        margin: 14px auto;
+    }
+
+    #page-ten{
+        padding-top: 80px;
+        padding-bottom: 40px;
+        align-items: center;
+    }
+    .galery{
+        font-size: 42px;
+        text-align: center;
+    }
+    .row-galery{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 16px;
+        gap: 10px;
+        margin: 30px auto;
+    }
+    .row-galery .col-3{
+        grid-column: span 2;
+    }
+    .row-galery .col-2{
+        grid-column: span 1;
+    }
+    .row-galery img{
+        height: 180px;
+    }
+    .flower{
+        position: absolute;
+        width: 120px;
+        height: 280px;
+        top: 140px;
+    }
+    .flower-left{
+        left: 20px;
+        transform: translateY(-200%) scaleX(-1) rotate(-20deg) scale(0.7);
+
+    }
+    .flower-right{
+        right: 20px;
+        transform: translateY(-200%) rotate(-20deg) scale(0.7);
+    }
+
+
+    #page-eleven{
+        align-items: flex-start; 
+        padding-top: 90px;
+        padding-bottom: 60px;
+    }
+    .thanks{
+        font-size: 44px;
+        margin-top: 110px;
+        margin-bottom: 25px;
+    }
+    .text-thanks{
+        font-size: 12px;
+        max-width: 90%;
+        margin-bottom: 80px;
+    }
+    .from{
+        font-size: 24px;
+    }
+
+     .button-nav{
+        min-height: 64px;
+        padding: 10px 16px;
+        gap: 18px;
+    }
+    .nav-item{
+        font-size: 9px;
+        gap: 4px;
+    }
+    .nav-item img{
+        width: 22px;
+        height: 22px;
+        margin-bottom: 2px;
+    }
+    .nav-item.active{
+        width: 52px;
+        height: 52px;
+        padding: 6px;
+        border-radius: 12px;
+    }
+
+    .music-btn{
+        bottom: 80px;
+        right: 20px;
+        width: 42px;
+        height: 42px;;
+    }
+    .music-ring{
+        width: 42px;
+        height: 42px;
+    }
+    .music-icon{
+        width: 30px;
+        height: 30px;
+    }
+    .music-icon.pause::before,
+    .music-icon.pause::after{
+        width: 4px;
+        height: 14px;
+    }
+    .music-icon.pause::before{
+        left: 50%;
+        transform: translate(-6px, -50%);
+    }
+    .music-icon.pause::after{
+        left: 50%;
+        transform: translate(2px, -50%);
+    }
+    .music-icon.play::before{
+        left: 50%;
+        top: 50%;
+        transform: translate(-38%, -50%);
+        border-top: 7px solid transparent;
+        border-bottom: 7px solid transparent;
+        border-left: 10px solid #ffffff;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #header{
+        padding-right: 130px;
+        padding-top: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #header .overlay-card{
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #header .subtitle{
+        font-size: 18px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+    #header .photo-wrapper{
+        width: 260px;
+        height: 280px;
+        border-radius: 18px;
+        margin-bottom: 20px;
+    }
+    #header .title-header{
+        font-size: 38px;
+        margin: 10px 0 18px;
+        letter-spacing: 2px;
+    }
+    .btn-open-invitation{
+        width: 100%;
+        max-width: 250px;
+        height: 46px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+
+    #page-one{
+        min-height: 100vh;
+        background-position: center 85%;
+        padding-bottom: 20px;
+        align-items: flex-start;
+        padding-top: 80px;
+    }
+
+    #page-two{
+        background-position: center 85%;
+        align-items: flex-start;
+        padding-top: 60px;
+    }
+    #page-two .overlay-card{
+        margin-top: 350px;
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .couple-name{
+        margin-top: 36px;
+        margin-bottom: 24px;
+        line-height: 1;
+    }
+    .couple-name .name,
+    .couple-name .and{
+        font-size: 64px;
+    }
+    .date{
+        font-size: 16px;
+        margin-top: 16px;
+        margin-bottom: 26px;
+        letter-spacing: 2px;
+    }
+    #page-two .subtitle-two{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    #page-three{
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #page-three .overlay-card{
+        margin-top: 210px;
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    #page-three .subtitle-three{
+        font-size: 42px;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+    #page-three .title-three{
+        font-size: 16px;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+
+    #page-four{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    #page-four h1{
+        font-size: 61px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    #names{
+        padding: 20px 0;
+    }
+    #names .row{
+        flex-direction: column;
+        gap: 20px;
+        max-width: 100%;
+    }
+    #names img{
+        width: 260px;
+        margin-bottom: 14px;
+    }
+    .names-title{
+        font-size: 32px;
+    }
+    .text-bride-names{
+        font-size: 18px;
+    }
+    .doughter_of,
+    .doughter_name,
+    .doughter_and{
+        font-size: 16px;
+    }
+    .container_names_and{
+        margin: 10px 0;
+        height: auto;
+    }
+    .names_and{
+        font-size: 61px;
+        transform: none;
+    }
+    #page-four .flower{
+        position: absolute;
+        width: 200px;
+        height: 160px;
+        top: 40%;
+    }
+    #page-four .flower-left{
+        left: 50px;
+        transform: translateY(-150%) scaleX(-1) rotate(-20deg) scale(1.3);
+    }
+    #page-four .flower-right{
+        right: 60px;
+        transform: translateY(-150%) rotate(-20deg) scale(1.3);
+    }
+
+    #page-five{
+        background-position: center 85%;
+        padding-top: 60px;
+    }
+    #page-five .container{
+        padding: 0 16px;
+        max-width: 100%;
+    }
+    .save-date{
+        font-size: 61px;
+        margin-top: 250px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    .save-wedding{
+        font-size: 61px;
+        margin-top: 20px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    #page-five .row{
+        margin: 20px 0;
+        gap: 10px;
+    }
+    .conter-day{
+        font-size: 42px;
+        padding: 0 16px;
+    }
+    .conter-day p{
+        font-size: 12px;
+        margin-top: -4px;
+    }
+    #page-five p{
+        font-size: 16px;
+        line-height: 1.8;
+        margin-bottom: 24px;
+    }
+    .text{
+        font-size: 18px;
+        padding: 10px 10px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .btn-save-date{
+        width: 100%;
+        max-width: 250px;
+        height: 46px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+    .btn-save-date img{
+        width: 16px;
+        height: 16px;
+    }
+    .button-decor-five{
+        bottom: -10px;
+    }
+
+     #page-six{
+        padding-bottom: 120px;
+    }
+    .cards-wrapper{
+        position: relative;      
+        bottom: auto;
+        left: auto;
+        transform: none;
+        flex-direction: column;  
+        gap: 24px;
+        align-items: center;
+        margin-top: 40px;
+    }
+    .event-card{
+        width: 100%;
+        max-width: 320px;
+        height: auto;            
+        padding: 28px 16px;
+        border-radius: 80px;
+    }
+    .card-date-box{
+        width: 260px;
+        height: 210px;
+        margin-top: -40px;
+    }
+
+    #page-seven{
+        padding-top: 190px;
+    }
+    .overlay-card-seven{
+        width: 360px;
+        height: auto;
+        padding: 32px 20px;
+    }
+    .input-rsvp,
+    .btn-confir,
+    .confir-wrapper{
+        width: 100%;
+        max-width: 320px;
+    }
+    #page-seven .flower{
+        position: absolute;
+        width: 200px;
+        height: 160px;
+        top: 40%;
+    }
+    #page-seven .flower-left{
+        left: 50px;
+        transform: translateY(-230%) scaleX(-1) rotate(-20deg) scale(1.5);
+
+    }
+    #page-seven .flower-right{
+        right: 65px;
+        transform: translateY(-230%) rotate(-20deg) scale(1.5);
+    }
+
+    #page-eight{
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+    #page-eight h1{
+        font-size: 61px;
+    }
+    .wishes-form{
+        max-width: 480px;
+    }
+    .input-name,
+    .input-wish{
+        font-size: 15px;
+    }
+    .btn-send-wishes{
+        width: 110px;
+        height: 46px;
+        right: 10px;
+        bottom: -60px;
+    }
+    .wishes-wrapper{
+        margin-top: 100px;
+        padding: 0 20px;
+    }
+    .slick-prev,
+    .slick-next{
+        width: 34px;
+        height: 34px;
+    }
+    .slick-prev{
+        left: -10px;
+        z-index: 9999;
+    }
+    .slick-next{
+        right: -10px;
+        z-index: 9999;
+    }
+    .wishes-wrapper .slick-slide{
+        margin: 0 5px;
+    }
+    .slick-prev::before,
+    .slick-next::before{
+        font-size: 16px;
+    }
+    .wish-card{
+        width: 280px;
+        padding: 10px;
+    }
+    .wish-card h4{
+        font-size: 22px;
+        padding-bottom: 25px;
+    }
+    .wish-card p{
+        font-size: 15px;
+    }
+
+    #page-nine{
+        padding: 80px 16px 120px;
+        align-items: flex-start;
+    }
+    .overlay-card-nine{
+        margin-top: 250px;
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .wedding-gift{
+        font-size: 61px;
+        margin-bottom: 4px;
+    }
+    .text-gift{
+        font-size: 16px;
+        line-height: 1.7;
+        margin-bottom: 0;
+    }
+    .logo-mandiri,
+    .logo-bca{
+        width: 100px;
+        margin: 2px auto;
+    }
+    .nama-norek{
+        font-size: 14px;
+    }
+    .norek{
+        font-size: 14px;
+    }
+    .btn-copy{
+        width: 100%;
+        max-width: 0px;
+        height: 35px;
+        font-size: 14px;
+        margin: 14px auto;
+    }
+
+    #page-ten{
+        padding-top: 80px;
+        padding-bottom: 40px;
+        align-items: center;
+    }
+    .galery{
+        font-size: 61px;
+        text-align: center;
+    }
+    .row-galery{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 150px;
+        gap: 10px;
+        margin: 30px auto;
+    }
+    .row-galery .col-3{
+        grid-column: span 3;
+    }
+    .row-galery .col-2{
+        grid-column: span 1;
+    }
+    .row-galery img{
+        height: 180px;
+    }
+    #page-ten .flower{
+        position: absolute;
+        width: 200px;
+        height: 160px;
+        top: 40%;
+    }
+    #page-ten .flower-left{
+        left: 50px;
+        transform: translateY(-150%) scaleX(-1) rotate(-20deg) scale(1.3);
+
+    }
+    #page-ten .flower-right{
+        right: 55px;
+        transform: translateY(-150%) rotate(-20deg) scale(1.3);
+    }
+
+    #page-eleven{
+        align-items: flex-start; 
+        padding-top: 200px;
+        padding-bottom: 60px;
+    }
+    .thanks{
+        font-size: 61px;
+        margin-top: 110px;
+        margin-bottom: 25px;
+    }
+    .text-thanks{
+        font-size: 16px;
+        max-width: 90%;
+        margin-bottom: 100px;
+    }
+    .from{
+        font-size: 26px;
+    }
+
+     .button-nav{
+        min-height: 64px;
+        padding: 10px 16px;
+        gap: 18px;
+    }
+    .nav-item{
+        font-size: 9px;
+        gap: 4px;
+    }
+    .nav-item img{
+        width: 22px;
+        height: 22px;
+        margin-bottom: 2px;
+    }
+    .nav-item.active{
+        width: 52px;
+        height: 52px;
+        padding: 6px;
+        border-radius: 12px;
+    }
+
+    .music-btn{
+        bottom: 100px;
+        right: 60px;
+        width: 52px;
+        height: 52px;;
+    }
+    .music-ring{
+        width: 52px;
+        height: 52px;
+    }
+    .music-icon{
+        width: 40px;
+        height: 40px;
+    }
+    .music-icon.pause::before,
+    .music-icon.pause::after{
+        width: 4px;
+        height: 14px;
+    }
+    .music-icon.pause::before{
+        left: 50%;
+        transform: translate(-6px, -50%);
+    }
+    .music-icon.pause::after{
+        left: 50%;
+        transform: translate(2px, -50%);
+    }
+    .music-icon.play::before{
+        left: 50%;
+        top: 50%;
+        transform: translate(-38%, -50%);
+        border-top: 7px solid transparent;
+        border-bottom: 7px solid transparent;
+        border-left: 10px solid #ffffff;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #header{
+        padding-right: 130px;
+        padding-top: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #header .overlay-card{
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #header .subtitle{
+        font-size: 18px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+    }
+    #header .photo-wrapper{
+        width: 260px;
+        height: 280px;
+        border-radius: 18px;
+        margin-bottom: 20px;
+    }
+    #header .title-header{
+        font-size: 38px;
+        margin: 10px 0 18px;
+        letter-spacing: 2px;
+    }
+    .btn-open-invitation{
+        width: 100%;
+        max-width: 250px;
+        height: 46px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+
+    #page-one{
+        min-height: 100vh;
+        background-position: center 85%;
+        padding-bottom: 20px;
+        align-items: flex-start;
+        padding-top: 80px;
+    }
+
+    #page-two{
+        background-position: center 85%;
+        align-items: flex-start;
+        padding-top: 60px;
+    }
+    #page-two .overlay-card{
+        margin-top: 350px;
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .couple-name{
+        margin-top: 36px;
+        margin-bottom: 24px;
+        line-height: 1;
+    }
+    .couple-name .name,
+    .couple-name .and{
+        font-size: 64px;
+    }
+    .date{
+        font-size: 16px;
+        margin-top: 16px;
+        margin-bottom: 26px;
+        letter-spacing: 2px;
+    }
+    #page-two .subtitle-two{
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    #page-three{
+        padding-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+    #page-three .overlay-card{
+        margin-top: 210px;
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    #page-three .subtitle-three{
+        font-size: 42px;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+    #page-three .title-three{
+        font-size: 16px;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: -5px;
+    }
+
+    #page-four{
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    #page-four h1{
+        font-size: 61px;
+        letter-spacing: 2px;
+        text-align: center;
+    }
+    #names{
+        padding: 20px 0;
+    }
+    #names .row{
+        flex-direction: column;
+        gap: 20px;
+        max-width: 100%;
+    }
+    #names img{
+        width: 260px;
+        margin-bottom: 14px;
+    }
+    .names-title{
+        font-size: 32px;
+    }
+    .text-bride-names{
+        font-size: 18px;
+    }
+    .doughter_of,
+    .doughter_name,
+    .doughter_and{
+        font-size: 16px;
+    }
+    .container_names_and{
+        margin: 10px 0;
+        height: auto;
+    }
+    .names_and{
+        font-size: 61px;
+        transform: none;
+    }
+    #page-four .flower{
+        position: absolute;
+        width: 200px;
+        height: 160px;
+        top: 40%;
+    }
+    #page-four .flower-left{
+        left: 50px;
+        transform: translateY(-150%) scaleX(-1) rotate(-20deg) scale(1.3);
+    }
+    #page-four .flower-right{
+        right: 60px;
+        transform: translateY(-150%) rotate(-20deg) scale(1.3);
+    }
+
+    #page-five{
+        background-position: center 85%;
+        padding-top: 60px;
+    }
+    #page-five .container{
+        padding: 0 16px;
+        max-width: 100%;
+    }
+    .save-date{
+        font-size: 61px;
+        margin-top: 250px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    .save-wedding{
+        font-size: 61px;
+        margin-top: 20px;
+        margin-bottom: 0;
+        letter-spacing: 0.5px;
+    }
+    #page-five .row{
+        margin: 20px 0;
+        gap: 10px;
+    }
+    .conter-day{
+        font-size: 42px;
+        padding: 0 16px;
+    }
+    .conter-day p{
+        font-size: 12px;
+        margin-top: -4px;
+    }
+    #page-five p{
+        font-size: 16px;
+        line-height: 1.8;
+        margin-bottom: 24px;
+    }
+    .text{
+        font-size: 18px;
+        padding: 10px 10px;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .btn-save-date{
+        width: 100%;
+        max-width: 250px;
+        height: 46px;
+        font-size: 14px;
+        border-radius: 12px;
+    }
+    .btn-save-date img{
+        width: 16px;
+        height: 16px;
+    }
+    .button-decor-five{
+        bottom: -10px;
+    }
+
+     #page-six{
+        padding-bottom: 120px;
+    }
+    .cards-wrapper{
+        position: relative;      
+        bottom: auto;
+        left: auto;
+        transform: none;
+        flex-direction: column;  
+        gap: 24px;
+        align-items: center;
+        margin-top: 40px;
+    }
+    .event-card{
+        width: 100%;
+        max-width: 320px;
+        height: auto;            
+        padding: 28px 16px;
+        border-radius: 80px;
+    }
+    .card-date-box{
+        width: 260px;
+        height: 210px;
+        margin-top: -40px;
+    }
+
+    #page-seven{
+        padding-top: 190px;
+    }
+    .overlay-card-seven{
+        width: 360px;
+        height: auto;
+        padding: 32px 20px;
+    }
+    .input-rsvp,
+    .btn-confir,
+    .confir-wrapper{
+        width: 100%;
+        max-width: 320px;
+    }
+    #page-seven .flower{
+        position: absolute;
+        width: 200px;
+        height: 160px;
+        top: 40%;
+    }
+    #page-seven .flower-left{
+        left: 50px;
+        transform: translateY(-230%) scaleX(-1) rotate(-20deg) scale(1.5);
+
+    }
+    #page-seven .flower-right{
+        right: 65px;
+        transform: translateY(-230%) rotate(-20deg) scale(1.5);
+    }
+
+    #page-eight{
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+    #page-eight h1{
+        font-size: 61px;
+    }
+    .wishes-form{
+        max-width: 480px;
+    }
+    .input-name,
+    .input-wish{
+        font-size: 15px;
+    }
+    .btn-send-wishes{
+        width: 110px;
+        height: 46px;
+        right: 10px;
+        bottom: -60px;
+    }
+    .wishes-wrapper{
+        margin-top: 100px;
+        padding: 0 20px;
+    }
+    .slick-prev,
+    .slick-next{
+        width: 34px;
+        height: 34px;
+    }
+    .slick-prev{
+        left: -10px;
+        z-index: 9999;
+    }
+    .slick-next{
+        right: -10px;
+        z-index: 9999;
+    }
+    .wishes-wrapper .slick-slide{
+        margin: 0 5px;
+    }
+    .slick-prev::before,
+    .slick-next::before{
+        font-size: 16px;
+    }
+    .wish-card{
+        width: 280px;
+        padding: 10px;
+    }
+    .wish-card h4{
+        font-size: 22px;
+        padding-bottom: 25px;
+    }
+    .wish-card p{
+        font-size: 15px;
+    }
+
+    #page-nine{
+        padding: 80px 16px 120px;
+        align-items: flex-start;
+    }
+    .overlay-card-nine{
+        margin-top: 250px;
+        max-width: 500px;
+        height: 560px;
+        padding: 32px 18px;
+        border-radius: 120px;
+        display: flex;
+        justify-content: center;
+    }
+    .wedding-gift{
+        font-size: 61px;
+        margin-bottom: 4px;
+    }
+    .text-gift{
+        font-size: 16px;
+        line-height: 1.7;
+        margin-bottom: 0;
+    }
+    .logo-mandiri,
+    .logo-bca{
+        width: 100px;
+        margin: 2px auto;
+    }
+    .nama-norek{
+        font-size: 14px;
+    }
+    .norek{
+        font-size: 14px;
+    }
+    .btn-copy{
+        width: 100%;
+        max-width: 0px;
+        height: 35px;
+        font-size: 14px;
+        margin: 14px auto;
+    }
+
+    #page-ten{
+        padding-top: 80px;
+        padding-bottom: 40px;
+        align-items: center;
+    }
+    .galery{
+        font-size: 61px;
+        text-align: center;
+    }
+    .row-galery{
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 150px;
+        gap: 10px;
+        margin: 30px auto;
+    }
+    .row-galery .col-3{
+        grid-column: span 3;
+    }
+    .row-galery .col-2{
+        grid-column: span 1;
+    }
+    .row-galery img{
+        height: 180px;
+    }
+    #page-ten .flower{
+        position: absolute;
+        width: 200px;
+        height: 160px;
+        top: 40%;
+    }
+    #page-ten .flower-left{
+        left: 50px;
+        transform: translateY(-150%) scaleX(-1) rotate(-20deg) scale(1.3);
+
+    }
+    #page-ten .flower-right{
+        right: 55px;
+        transform: translateY(-150%) rotate(-20deg) scale(1.3);
+    }
+
+    #page-eleven{
+        align-items: flex-start; 
+        padding-top: 200px;
+        padding-bottom: 60px;
+    }
+    .thanks{
+        font-size: 61px;
+        margin-top: 110px;
+        margin-bottom: 25px;
+    }
+    .text-thanks{
+        font-size: 16px;
+        max-width: 90%;
+        margin-bottom: 100px;
+    }
+    .from{
+        font-size: 26px;
+    }
+
+     .button-nav{
+        min-height: 64px;
+        padding: 10px 16px;
+        gap: 18px;
+    }
+    .nav-item{
+        font-size: 9px;
+        gap: 4px;
+    }
+    .nav-item img{
+        width: 22px;
+        height: 22px;
+        margin-bottom: 2px;
+    }
+    .nav-item.active{
+        width: 52px;
+        height: 52px;
+        padding: 6px;
+        border-radius: 12px;
+    }
+
+    .music-btn{
+        bottom: 100px;
+        right: 60px;
+        width: 52px;
+        height: 52px;;
+    }
+    .music-ring{
+        width: 52px;
+        height: 52px;
+    }
+    .music-icon{
+        width: 40px;
+        height: 40px;
+    }
+    .music-icon.pause::before,
+    .music-icon.pause::after{
+        width: 4px;
+        height: 14px;
+    }
+    .music-icon.pause::before{
+        left: 50%;
+        transform: translate(-6px, -50%);
+    }
+    .music-icon.pause::after{
+        left: 50%;
+        transform: translate(2px, -50%);
+    }
+    .music-icon.play::before{
+        left: 50%;
+        top: 50%;
+        transform: translate(-38%, -50%);
+        border-top: 7px solid transparent;
+        border-bottom: 7px solid transparent;
+        border-left: 10px solid #ffffff;
+    }
+}
+
+@media (min-width: 1200px) {
+
+}

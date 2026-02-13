@@ -1879,7 +1879,7 @@
     }
     .btn-copy{
         width: 100%;
-        max-width: 0px;
+        max-width: 110px;
         height: 35px;
         font-size: 14px;
         margin: 14px auto;
@@ -2372,7 +2372,7 @@
     }
     .btn-copy{
         width: 100%;
-        max-width: 0px;
+        max-width: 110px;
         height: 35px;
         font-size: 14px;
         margin: 14px auto;

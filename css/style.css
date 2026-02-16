@@ -664,7 +664,7 @@ section {
     padding-bottom: 30px;
     overflow: hidden;
 }
-.flower-seven{
+#page-seven .flower{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -676,13 +676,52 @@ section {
     opacity: 0.9;
     z-index: 1;
 }
-.flower-left-seven{
+#page-seven .flower-left{
     left: -2px;
     transform: translateY(-80%) scaleX(-1) rotate(-20deg);
+    animation: swayLeft 6s ease-in-out infinite;
+    
 }
-.flower-right-seven{
+#page-seven .flower-right{
     right: -2px;
     transform: translateY(-80%) rotate(-20deg) ;
+    animation: swayRight 7s ease-in-out infinite;
+}
+@keyframes swayLeft {
+    0% {
+        transform: translateY(-80%) scaleX(-1) rotate(-20deg);
+    }
+    25% {
+        transform: translateY(-82%) scaleX(-1) rotate(-15deg);
+    }
+    50% {
+        transform: translateY(-78%) scaleX(-1) rotate(-23deg);
+    }
+    75% {
+        transform: translateY(-81%) scaleX(-1) rotate(-17deg);
+    }
+    100% {
+        transform: translateY(-80%) scaleX(-1) rotate(-20deg);
+    }
+}
+
+/* Animasi kanan */
+@keyframes swayRight {
+    0% {
+        transform: translateY(-80%) rotate(-20deg);
+    }
+    25% {
+        transform: translateY(-78%) rotate(-15deg);
+    }
+    50% {
+        transform: translateY(-82%) rotate(-23deg);
+    }
+    75% {
+        transform: translateY(-79%) rotate(-17deg);
+    }
+    100% {
+        transform: translateY(-80%) rotate(-20deg);
+    }
 }
 .overlay-card-seven{
     border-radius: 150px;
@@ -1185,6 +1224,7 @@ section {
 .from{
     font-family: 'Great_Vibes';
     font-size: 31px;
+    word-spacing: 10px;
     color: #f2f2f2;
 }
 .button-nav{

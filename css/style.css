@@ -337,25 +337,25 @@ section {
     line-height: 1;
     transform: translateY(-10px);
 }
-.flower{
+#page-four .flower{
     position: absolute;
+    margin-top: 500px;
     top: 50%;
     transform: translateY(-50%);
     width: 180px;
-    height: 420px;
+    height: auto;
     background-repeat: no-repeat;
     background-size: contain;
     pointer-events: none;
     opacity: 0.9;
     z-index: 1;
 }
-.flower-left{
-    left: -2px;
-    transform: translateY(-80%) scaleX(-1) rotate(-20deg);
+#page-four .flower-left {
+   animation: swayLeft 6s ease-in-out infinite;
 }
-.flower-right{
-    right: -2px;
-    transform: translateY(-80%) rotate(-20deg) ;
+
+#page-four .flower-right {
+    animation: swayRight 7s ease-in-out infinite;
 }
 
 #page-five{
@@ -666,31 +666,23 @@ section {
 }
 #page-seven .flower{
     position: absolute;
-    top: 180px; /* posisi utama */
+    margin-top: 500px;
+    top: 50%;
+    transform: translateY(-50%);
     width: 180px;
-    height: 420px;
+    height: auto;
     background-repeat: no-repeat;
     background-size: contain;
     pointer-events: none;
     opacity: 0.9;
     z-index: 1;
 }
-
-/* Bunga kiri */
 #page-seven .flower-left{
-    left: -2px;
-    transform: scaleX(-1) rotate(-20deg);
     animation: swayLeft 6s ease-in-out infinite;
 }
-
-/* Bunga kanan */
 #page-seven .flower-right{
-    right: -2px;
-    transform: rotate(-20deg);
     animation: swayRight 7s ease-in-out infinite;
 }
-
-/* Animasi kiri */
 @keyframes swayLeft {
     0%   { top: 180px; }
     25%  { top: 170px; }
@@ -699,7 +691,7 @@ section {
     100% { top: 180px; }
 }
 
-/* Animasi kanan */
+
 @keyframes swayRight {
     0%   { top: 180px; }
     25%  { top: 190px; }
@@ -1155,25 +1147,24 @@ section {
 .row-galery .col-2{
     grid-column: span 2;
 }
-.flower{
+#page-ten .flower{
     position: absolute;
+    margin-top: 200px;
     top: 50%;
     transform: translateY(-50%);
     width: 180px;
-    height: 420px;
+    height: auto;
     background-repeat: no-repeat;
     background-size: contain;
     pointer-events: none;
     opacity: 0.9;
     z-index: 1;
 }
-.flower-left{
-    left: -2px;
-    transform: translateY(-80%) scaleX(-1) rotate(-20deg);
+#page-ten .flower-left{
+    animation: swayLeft 6s ease-in-out infinite;
 }
-.flower-right{
-    right: -2px;
-    transform: translateY(-80%) rotate(-20deg) ;
+#page-ten .flower-right{
+    animation: swayRight 7s ease-in-out infinite;
 }
 
 #page-eleven{

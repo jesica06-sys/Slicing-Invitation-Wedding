@@ -339,7 +339,6 @@ section {
 }
 #page-four .flower{
     position: absolute;
-    margin-top: 500px;
     top: 50%;
     transform: translateY(-50%);
     width: 180px;
@@ -350,11 +349,14 @@ section {
     opacity: 0.9;
     z-index: 1;
 }
-#page-four .flower-left {
-   animation: swayLeft 6s ease-in-out infinite;
+#page-four .flower-left{
+    left: 60px;
+    transform: translateY(20%) scaleX(-1) rotate(-20deg) scale(1.4);
+    animation: swayLeft 6s ease-in-out infinite;
 }
-
-#page-four .flower-right {
+#page-four .flower-right{
+    right: 60px;
+    transform: translateY(20%) rotate(-20deg) scale(1.4);
     animation: swayRight 7s ease-in-out infinite;
 }
 
@@ -666,7 +668,6 @@ section {
 }
 #page-seven .flower{
     position: absolute;
-    margin-top: 500px;
     top: 50%;
     transform: translateY(-50%);
     width: 180px;
@@ -678,9 +679,13 @@ section {
     z-index: 1;
 }
 #page-seven .flower-left{
+    left: 60px;
+    transform: translateY(-20%) scaleX(-1) rotate(-20deg) scale(1.4);
     animation: swayLeft 6s ease-in-out infinite;
 }
 #page-seven .flower-right{
+    right: 60px;
+    transform: translateY(-20%) rotate(-20deg) scale(1.4);
     animation: swayRight 7s ease-in-out infinite;
 }
 @keyframes swayLeft {
@@ -1149,7 +1154,6 @@ section {
 }
 #page-ten .flower{
     position: absolute;
-    margin-top: 200px;
     top: 50%;
     transform: translateY(-50%);
     width: 180px;
@@ -1161,9 +1165,13 @@ section {
     z-index: 1;
 }
 #page-ten .flower-left{
+    left: 60px;
+    transform: translateY(-20%) scaleX(-1) rotate(-20deg) scale(1.4);
     animation: swayLeft 6s ease-in-out infinite;
 }
 #page-ten .flower-right{
+    right: 60px;
+    transform: translateY(-20%) rotate(-20deg) scale(1.4);
     animation: swayRight 7s ease-in-out infinite;
 }
 
